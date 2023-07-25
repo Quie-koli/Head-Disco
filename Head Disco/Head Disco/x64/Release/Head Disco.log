@@ -1,0 +1,3 @@
+﻿  HeadDisco.cpp
+E:\opp\Head Disco\Head Disco\HeadDisco.cpp(22): warning C4715: “Mat2QImage”: 不是所有的控件路径都返回值
+  Head Disco.vcxproj -> E:\opp\Head Disco\x64\Release\Head Disco.exe
